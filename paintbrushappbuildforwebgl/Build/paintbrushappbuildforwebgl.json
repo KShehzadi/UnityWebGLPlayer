@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Paintbrushapp",
+"productVersion": "0.1",
+"dataUrl": "paintbrushappbuildforwebgl.data.unityweb",
+"asmCodeUrl": "paintbrushappbuildforwebgl.asm.code.unityweb",
+"asmMemoryUrl": "paintbrushappbuildforwebgl.asm.memory.unityweb",
+"asmFrameworkUrl": "paintbrushappbuildforwebgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
